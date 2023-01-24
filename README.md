@@ -1,4 +1,4 @@
-<div style="display:flex; flex-direction: column; justify-content: center; align-content: center; align-items: center; text-align: center;">
+<div style="display:flex; flex-direction: column; justify-content: center; align-content: space-around; align-items: center;">
   <h1 style="text-align: center;">Single Page App Developed based on OpenAI's GPT-3 System</h1>
   <divider />
   <img src="https://i.ibb.co/bmztFxf/834c2479c4b86d3fcead25d487e2da78.png">
