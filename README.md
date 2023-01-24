@@ -1,6 +1,6 @@
-<h1>Single Page App Developed based on OpenAI's GPT-3 System</h1>
+<h1 style="text-align: center;">Single Page App Developed based on OpenAI's GPT-3 System</h1>
 <divider />
-<img src="https://gyazo.com/834c2479c4b86d3fcead25d487e2da78">
+<img src="https://imgur.com/a/7z5uuOe">
 
 
 
