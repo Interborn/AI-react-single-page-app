@@ -1,8 +1,8 @@
-<h1 style="text-align: center;">Single Page App Developed based on OpenAI's GPT-3 System</h1>
-<divider />
-<img src="https://imgur.com/a/7z5uuOe">
-<img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-
+<div style="display:flex; flex-direction: column; justify-content: center;">
+  <h1 style="text-align: center;">Single Page App Developed based on OpenAI's GPT-3 System</h1>
+  <divider />
+  <img src="https://i.ibb.co/bmztFxf/834c2479c4b86d3fcead25d487e2da78.png">
+</div>
 
 
 
